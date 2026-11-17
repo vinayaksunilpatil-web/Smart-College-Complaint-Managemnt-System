@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart College Complaint Management System
 
 **"Report. Track. Resolve."**
@@ -158,3 +159,6 @@ The application contains an interactive **ADBMS Database Demo Lab** (accessible 
 6. **RANGE Partitioning**: Partitions complaints across academic years `p2025` (<2026), `p2026` (<2027), `p2027` (<2028), and `pmax`.
 7. **Partition Pruning**: Uses `EXPLAIN` on date ranges to prove that MySQL scans only the relevant partition (e.g. `p2026`) and eliminates irrelevant partitions.
 8. **Live Partition Switcher**: Dynamically switch MySQL InnoDB between HASH, RANGE, and Non-partitioned modes.
+=======
+# Smart-College-Complaint-Managemnt-System
+>>>>>>> 92ca5e722ef32e40ac4c55853d787f59e84e5471
